@@ -8,6 +8,7 @@ location,Location, true
 subject,Subjects,true
 source,Source
 language,Language
+notes,Notes
 type,Type
 format,Format
 rights,Rights
