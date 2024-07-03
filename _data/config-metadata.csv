@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+collectionid, Archival Collection,true
 creator,Creator,
 date,Date,
 description,Description,
@@ -10,4 +11,4 @@ language,Language
 type,Type,
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,true
