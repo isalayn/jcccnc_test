@@ -9,7 +9,7 @@ subject,Subjects,true
 source,Source
 language,Language
 notes,Notes
-type,Type,true
+type,Material Type,true
 format,Format
 rights,Rights
 rightsstatement,Rights Statement,true
