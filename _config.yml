@@ -42,10 +42,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSwCUWR8AddnD7xe_H
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Japanese Cultural and Community Center of Northern California (JCCCNC)"
-# organization-link: https://jcccnc.org/
-# organization-logo-banner: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
-# organization-logo-nav: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
+organization-name: "Japanese Cultural and Community Center of Northern California (JCCCNC)"
+organization-link: https://jcccnc.org/
+organization-logo-banner: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
+organization-logo-nav: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
 
 ##########
 # ROBOTS EXCLUDE
