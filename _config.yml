@@ -49,7 +49,7 @@ organization-logo-nav: https://www.jcccnc.org//wp-content/uploads/2021/03/JCCNCG
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
@@ -65,6 +65,8 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+#remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
