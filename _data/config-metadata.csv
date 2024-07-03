@@ -3,6 +3,7 @@ title,Title
 creator,Creator,
 date,Date,
 description,Description,
+autodescription,AI Generated Description
 location,Location, true
 subject,Subjects,true
 source,Source
