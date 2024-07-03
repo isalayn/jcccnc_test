@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: JCCCNC JAHA Digital Collections Test
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: test site
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: This is a test site for JCCCNC JAHA digital collection, Yokohama Specie Bank records
@@ -42,10 +42,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSwCUWR8AddnD7xe_H
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Japanese Cultural and Community Center of Northern California (JCCCNC)"
+# organization-link: https://jcccnc.org/
+# organization-logo-banner: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
+# organization-logo-nav: https://www.jcccnc.org/wp-content/uploads/2024/01/JCCCNCLogo.png
 
 ##########
 # ROBOTS EXCLUDE
